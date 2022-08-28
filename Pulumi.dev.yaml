@@ -1,0 +1,5 @@
+config:
+  kong:kongAdminPassword:
+    secure: AAABAHzSU2+zbRqv0ugqiSWVEFdwIUjLWEgy/eytw6h7gSHBFQ==
+  kong:kongAdminUri: http://0.0.0.0:8001
+  kong:kongAdminUsername: admin
